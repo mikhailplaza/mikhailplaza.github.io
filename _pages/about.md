@@ -7,4 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first year PhD student in Krissa Skogen's lab at Northwestern University and the Chicago Botanic Garden.
+I am a first year PhD student in Dr. Krissa Skogen's lab at Northwestern University and the Chicago Botanic Garden.
